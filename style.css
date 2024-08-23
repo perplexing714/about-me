@@ -1,0 +1,36 @@
+h1{
+	color: purple;
+	text-align: center;
+	color: white;
+	font-family: "Monaco", sans-serif;
+	font-size: 30px;
+}
+
+h2{
+	color: white; 
+	text-align: center;
+	font-family: "Monaco", sans-serif;
+	font-size: 25px;
+}
+body{
+	background-color: #9e8af6;
+}
+li{
+	text-align: center;
+	color: white;
+	font-family: "Monaco", sans-serif; 
+	font-size: 18px;
+}
+p{
+	background: #7d61ff;
+	border: 4px solid black;
+	padding: 5px;
+	border-radius: 5px;
+	color: white; 
+	font-family: "Monaco", sans-serif;
+	font-size: 18px;
+	text-align: center;
+	width: 50%;
+	margin-left: 25%;
+	
+}
