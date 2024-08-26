@@ -1,6 +1,5 @@
 h1{
 	color: purple;
-	text-align: center;
 	color: white;
 	font-family: "Monaco", sans-serif;
 	font-size: 30px;
@@ -8,15 +7,14 @@ h1{
 
 h2{
 	color: white; 
-	text-align: center;
 	font-family: "Monaco", sans-serif;
 	font-size: 25px;
 }
 body{
 	background-color: #9e8af6;
+	text-align: center;
 }
 li{
-	text-align: center;
 	color: white;
 	font-family: "Monaco", sans-serif; 
 	font-size: 18px;
@@ -29,7 +27,6 @@ p{
 	color: white; 
 	font-family: "Monaco", sans-serif;
 	font-size: 18px;
-	text-align: center;
 	width: 50%;
 	margin-left: 25%;
 	
