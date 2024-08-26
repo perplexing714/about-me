@@ -11,7 +11,8 @@ h2{
 	font-size: 25px;
 }
 body{
-	background-color: #9e8af6;
+	  background-color: #9e8af6;
+  background-image: linear-gradient(to bottom right, #2664ff, #bf4de8);
 	text-align: center;
 }
 li{
