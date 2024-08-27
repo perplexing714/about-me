@@ -20,6 +20,8 @@ li{
 	font-family: "Monaco", sans-serif; 
 	font-size: 18px; 
 	text-align: center; 
+	margin-top: 25px 
+	
 }
 p{
 	background: #7d61ff;
@@ -35,6 +37,23 @@ p{
 }
 
 #something{
-color: black;
+color: white;
+margin-top: 80px;
+text-shadow: 2px 2px 5px purple;
+} 
+
+#something2{
+color: white;
+text-shadow: 2px 2px 5px blue; 
+}
+
+#something3{
+color: white;
+text-shadow: 2px 2px 5px black;
+}
+
+img{
+	margin-top: 20px;
+	border: 2px solid white;
 }
 
