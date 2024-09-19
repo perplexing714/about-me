@@ -1,64 +1,65 @@
-h1{
-	color: purple;
-	color: white;
-	font-family: "Monaco", sans-serif;
-	font-size: 30px;
+h1 {
+  color: purple;
+  color: white;
+  font-family: "Monaco", sans-serif;
+  font-size: 30px;
 }
 
-h2{
-	color: white; 
-	font-family: "Monaco", sans-serif;
-	font-size: 25px;
+h2 {
+  color: white;
+  font-family: "Monaco", sans-serif;
+  font-size: 25px;
 }
-body{
-	  background-color: #9e8af6;
+
+body {
+  background-color: #9e8af6;
   background-image: linear-gradient(to bottom right, #2664ff, #bf4de8);
-	text-align: center;
-}
-li{
-	color: white;
-	font-family: "Monaco", sans-serif; 
-	font-size: 18px; 
-	text-align: center; 
-	margin-top: 25px 
-	
-}
-p{
-	background: #7d61ff;
-	border: 4px solid black;
-	padding: 5px;
-	border-radius: 20px;
-	color: white; 
-	font-family: "Monaco", sans-serif;
-	font-size: 18px;
-	width: 50%;
-	margin-left: 25%;
-	
+  text-align: center;
 }
 
-#something{
-color: white;
-margin-top: 80px;
-text-shadow: 2px 2px 5px purple;
-} 
-
-#something2{
-color: white;
-text-shadow: 2px 2px 5px blue; 
+li {
+  color: white;
+  font-family: "Monaco", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 25px
 }
 
-#something3{
-color: white;
-text-shadow: 2px 2px 5px black;
+p {
+  background: #7d61ff;
+  border: 4px solid black;
+  padding: 5px;
+  border-radius: 20px;
+  color: white;
+  font-family: "Monaco", sans-serif;
+  font-size: 18px;
+  width: 50%;
+  margin-left: 25%;
+
 }
 
-img{
-	margin-top: 20px;
-	border: 2px solid white; 
-	width: 550px; 
-	display: block; 
-	text-align: center; 
-	margin-left: auto; 
-	margin-right: auto;
+#something {
+  color: white;
+  margin-top: 80px;
+  text-shadow: 2px 2px 5px purple;
 }
 
+#something2 {
+  color: white;
+  text-shadow: 2px 2px 5px blue;
+}
+
+#something3 {
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+img {
+  margin-top: 20px;
+  border: 2px solid white;
+  width: 550px;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
